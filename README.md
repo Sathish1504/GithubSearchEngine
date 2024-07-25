@@ -40,7 +40,10 @@ To determine the relevance and value of repositories, the following criteria are
 - Gradio: For building the user-friendly interface.
 - Html: For the front-end interface.
 
+## RESULTS AND SCREENSHOTS
+
 ![image](https://github.com/Sathish1504/GithubSearchEngine/blob/2d8bd0f5230f25918c9d3499d3956fa14d845a6c/Result/1.png)
+
 ![image](https://github.com/Sathish1504/GithubSearchEngine/blob/2d8bd0f5230f25918c9d3499d3956fa14d845a6c/Result/2.png)
 
 ![image](https://github.com/Sathish1504/GithubSearchEngine/blob/2d8bd0f5230f25918c9d3499d3956fa14d845a6c/Result/3.png)
